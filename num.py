@@ -32,7 +32,7 @@ async def scan(ctx, number=None):
         await ctx.send(embed=embed)
     phone_number = str(number)
     print(number)
-    print("---------------")
+    print("Searching...")
 
     access_key = 'fgh2v3gjjz1g' #key from numverify.com
     url = 'http://apilayer.net/api/validate?access_key=' + access_key + '&number=' + phone_number
