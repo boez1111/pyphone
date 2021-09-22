@@ -41,7 +41,7 @@ async def scan(ctx, number=None):
     print(answer)
     if answer["valid"] == True:
 
-        embed2 = discord.Embed(title=f"**Information about the Number {phone_number}**",description="The information may not be 100% correct. Deviations possible.",
+        embed2 = discord.Embed(title=f"**Information about the Number {phone_number}**",description="The information may not be 100% correct. Deviations possible.",colour=discord.Colour.green())
         embed2.add_field(name="Valid", value=answer['valid'], inline=False)
         embed2.add_field(name="Number", value=answer['number'], inline=False)
         embed2.add_field(name="Local Format", value=answer['local_format'], inline=False)
