@@ -1,2 +1,2 @@
 # Pyphone
-Allows you to search for informations on a specific phone number.
+Allows you to search for information on a specific phone number.
