@@ -7,7 +7,7 @@ bot = commands.Bot(command_prefix="--", help_command=None)
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='--help >
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='--help')
     print("Ready")
 @bot.command()
 async def help(ctx):
@@ -27,7 +27,7 @@ async def ping(ctx):
 @bot.command()
 async def scan(ctx, number=None):
     if number is None:
-        embed = discord.Embed(title="The command looks like this: ```--scan [number with country code]>
+        embed = discord.Embed(title="The command looks like this: ```--scan [number with country code]```,
                               colour=000000, timestamp=ctx.message.created_at)
         await ctx.send(embed=embed)
     phone_number = str(number)
