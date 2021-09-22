@@ -42,15 +42,15 @@ async def scan(ctx, number=None):
     if answer["valid"] == True:
 
         embed2 = discord.Embed(title=f"**Informationen über die Telefonnummer {phone_number}**!",descript>
-        embed2.add_field(name="Gültigkeit", value=answer['valid'], inline=False)
-        embed2.add_field(name="Nummer", value=answer['number'], inline=False)
-        embed2.add_field(name="Lokales Format", value=answer['local_format'], inline=False)
-        embed2.add_field(name="Internationales Format", value=answer['international_format'], inline=Fals>
-        embed2.add_field(name="Landespräfix", value=answer['country_prefix'], inline=False)
-        embed2.add_field(name="Landescode", value=answer['country_code'], inline=False)
-        embed2.add_field(name="Land`", value=answer['country_name'], inline=False)
-        embed2.add_field(name="Anbieter", value=answer['carrier'], inline=False)
-        embed2.add_field(name="Nummerntyp", value=answer['line_type'], inline=False)
+        embed2.add_field(name="Valid", value=answer['valid'], inline=False)
+        embed2.add_field(name="Number", value=answer['number'], inline=False)
+        embed2.add_field(name="Local Format", value=answer['local_format'], inline=False)
+        embed2.add_field(name="International Format ", value=answer['international_format'], inline=Fals>
+        embed2.add_field(name="Country Prefix", value=answer['country_prefix'], inline=False)
+        embed2.add_field(name="Country Code", value=answer['country_code'], inline=False)
+        embed2.add_field(name="Country Name", value=answer['country_name'], inline=False)
+        embed2.add_field(name="Carrier", value=answer['carrier'], inline=False)
+        embed2.add_field(name="Line Type", value=answer['line_type'], inline=False)
         embed2.timestamp = datetime.utcnow()
         await ctx.send(embed=embed2)
     else:
