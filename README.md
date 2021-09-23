@@ -1,6 +1,8 @@
 # Pyphone
 Allows you to search for information on a specific phone number.
 
+<p align="center"> <img width="460" height="300" src="http://www.fillmurray.com/460/300"> </p>
+
 __**Steps to get started:**__
 
 __Step 1:__
