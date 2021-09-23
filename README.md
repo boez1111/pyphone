@@ -1,7 +1,7 @@
 # Pyphone
 Allows you to search for information on a specific phone number.
 
-**Steps to get started:**
+__**Steps to get started:**__
 
 __Step 1:__
 Download the File with git clone.
