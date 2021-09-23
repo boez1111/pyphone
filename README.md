@@ -18,5 +18,6 @@ Change the key with your own key
 __Step 4:__
 
 Go to your [Discord Developer Portal](https://discord.com/developers/applications)
+Navigate to your application, copy your bot token and put it into the num.py file.
 
 Join my server [Discord](https://discord.gg/d7m5zUQrd8)
