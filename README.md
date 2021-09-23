@@ -7,7 +7,7 @@ __Step 1:__
 
 Download the File with git clone.
 
-__Steo 2:__
+__Step 2:__
 
 Create an account on [numverify.com](https://numverify.com/)
 
