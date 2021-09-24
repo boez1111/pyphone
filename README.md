@@ -15,7 +15,7 @@ Change into the directory: `cd pyphone`
 
 __Step 3:__
 
-Change the key with your own key
+Install the requirements: `pip install -r requirements.txt`
 
 __Step 4:__
 
