@@ -16,6 +16,8 @@ Allows you to search for information on a specific phone number.
   
 5. Create an account on [numverify.com](https://numverify.com) and copy the api key.
   
+6. Start the discord bot: `python num.py`
+  
 ## Configuration
   
 Name | Meaning
