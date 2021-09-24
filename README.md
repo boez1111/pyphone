@@ -29,3 +29,8 @@ Name | Meaning
 
 
   My discord server [Join now](https://discord.gg/d7m5zUQrd8)
+[
+  ![Donate with PayPal]
+  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
