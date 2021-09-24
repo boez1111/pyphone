@@ -6,10 +6,7 @@ Allows you to search for information on a specific phone number.
 <a/>
 
 ## Installation
-
-__Step 1:__
-
-Clone the repository: `git clone https://github.com/boez/pyphone.git`
+1. Clone the repository: `git clone https://github.com/boez/pyphone.git`
 
 __Step 2:__
 
