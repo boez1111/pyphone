@@ -3,7 +3,10 @@ from discord.ext import commands
 import discord
 from datetime import datetime
 
-bot = commands.Bot(command_prefix="--", help_command=None)
+prefix = "--"      #choose any prefix you want
+token = ""         #your bot token
+
+bot = commands.Bot(command_prefix=prefix, help_command=None)
 
 @bot.event
 async def on_ready():
@@ -34,7 +37,7 @@ async def scan(ctx, number=None):
     print(number)
     print("Searching...")
 
-    access_key = 'fgh2v3gjjz1g' #key from numverify.com
+    access_key = 'fgh2v3gjjz1g'      #key from numverify.com
     url = 'http://apilayer.net/api/validate?access_key=' + access_key + '&number=' + phone_number
     response = requests.get(url)
     answer = response.json()
@@ -57,4 +60,4 @@ async def scan(ctx, number=None):
         ctx.send("not a valid number")
 
 
-bot.run("token") #your bot token
+bot.run(token)
