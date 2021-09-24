@@ -17,5 +17,12 @@ Allows you to search for information on a specific phone number.
 5. Create an account on [numverify.com](https://numverify.com) and copy the api key.
   
 ## Configuration
+  
+Name | Meaning
+--- | ---
+`active_extensions` | Which extensions are loaded by default (you usually do not have to edit this)
+`command_prefix` | No special meaning for now
+`delete_messages` | Whether the bot deletes its messages after a certain amount of time
+`discord_token` | Discord token
 
 Join my server [Discord](https://discord.gg/d7m5zUQrd8)
