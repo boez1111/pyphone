@@ -1,9 +1,10 @@
 # Pyphone
 Allows you to search for information on a specific phone number.
 
-<a href="https://discord.com/developers/applications">
-  <img align="right" width="200" src="https://cdn.discordapp.com/attachments/787386165828517929/890491043185819678/dc17.PNG" alt="Discord">
-<a/>
+<p align="center">
+  <img width="460" height="300" src="https://media.discordapp.net/attachments/787386165828517929/890491043185819678/dc17.PNG">
+</p>
+
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/boez/pyphone.git`
