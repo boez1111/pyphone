@@ -11,7 +11,7 @@ Clone the repository: `git clone https://github.com/boez/pyphone.git`
 
 __Step 2:__
 
-Create an account on [numverify.com](https://numverify.com/)
+Change into the directory: `cd pyphone`
 
 __Step 3:__
 
