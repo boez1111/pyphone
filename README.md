@@ -2,7 +2,7 @@
 Allows you to search for information on a specific phone number.
 
 <a href="https://discordapp.com/">
-  <img align="right" width="200" src="https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="Discord">
+  <img align="right" width="200" src="https://media.discordapp.net/attachments/787386165828517929/890491043185819678/dc17.PNG" alt="Discord">
 <a/>
 
 ## Installation
