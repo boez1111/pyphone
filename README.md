@@ -12,8 +12,8 @@ Allows you to search for information on a specific phone number.
 
 3. Install the requirements: `pip install -r requirements.txt`
   
-4. Go to your [Developer Portal](https://discord.com/developers/applications)
+4. Go to the [Developer Portal](https://discord.com/developers/applications) and create a bot application, then copy your bot token.
   
-Navigate to your application, copy your bot token and put it into the num.py file.
+5. Create an account on [numverify.com](https://numverify.com) and copy the api key.
 
 Join my server [Discord](https://discord.gg/d7m5zUQrd8)
