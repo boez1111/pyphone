@@ -20,9 +20,9 @@ Allows you to search for information on a specific phone number.
   
 Name | Meaning
 --- | ---
-`active_extensions` | Which extensions are loaded by default (you usually do not have to edit this)
-`command_prefix` | No special meaning for now
-`delete_messages` | Whether the bot deletes its messages after a certain amount of time
-`discord_token` | Discord token
+`command_prefix` | Put in a prefix of your choice
+`access_key` | The Api key from [numverify.com](https://numverify.com)
+`token` | Your Bot token
 
-Join my server [Discord](https://discord.gg/d7m5zUQrd8)
+
+  My discord server [Join now](https://discord.gg/d7m5zUQrd8)
