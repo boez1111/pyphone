@@ -3,10 +3,10 @@ from discord.ext import commands
 import discord
 from datetime import datetime
 
-prefix = "--"      #choose any prefix you want
+command_prefix = "--"      #choose any prefix you want
 token = ""         #your bot token
 
-bot = commands.Bot(command_prefix=prefix, help_command=None)
+bot = commands.Bot(command_prefix=command_prefix, help_command=None)
 
 @bot.event
 async def on_ready():
