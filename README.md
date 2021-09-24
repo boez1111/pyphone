@@ -15,5 +15,7 @@ Allows you to search for information on a specific phone number.
 4. Go to the [Developer Portal](https://discord.com/developers/applications) and create a bot application, then copy your bot token.
   
 5. Create an account on [numverify.com](https://numverify.com) and copy the api key.
+  
+## Configuration
 
 Join my server [Discord](https://discord.gg/d7m5zUQrd8)
