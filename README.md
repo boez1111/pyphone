@@ -3,7 +3,7 @@ Allows you to search for information on a specific phone number.
 
 <p align="center"> <img width="460" height="300" src="https://media.discordapp.net/attachments/787386165828517929/890491043185819678/dc17.PNG"> </p>
 
-__**Steps to get started:**__
+## Installation
 
 __Step 1:__
 
