@@ -31,4 +31,4 @@ Name | Meaning
   My discord server [Join now](https://discord.gg/d7m5zUQrd8)
 ##Donation Button
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V99TRX5KHNDCU)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=L2LDVP4DAMSBG)
