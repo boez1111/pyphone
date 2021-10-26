@@ -26,6 +26,7 @@ Name | Meaning
 `command_prefix` | Put in a prefix of your choice
 `access_key` | The Api key from [numverify.com](https://numverify.com)
 `token` | Your Bot token
+`admins` | ID of admins (for scan command)
 
 
 ## Donation
