@@ -11,7 +11,7 @@ bot = commands.Bot(command_prefix=command_prefix, help_command=None)
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='--help')
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='--help'))
     print("Ready")
 @bot.command()
 async def help(ctx):
