@@ -1,4 +1,4 @@
-# Pyphone
+# Pyphone [Outdated]
 Allows you to search for information on a specific phone number.
 
 <p align="center">
